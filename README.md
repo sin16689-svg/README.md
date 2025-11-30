@@ -135,6 +135,9 @@ ps -ef --forest       # 트리 형태로 보기
 ps -eo pid,cmd        # PID + 명령어만 보기
 ps -p 1234            # PID 1234만 출력
 ```
+---
+
+<img width="464" height="114" alt="image" src="https://github.com/user-attachments/assets/19cd011c-fbe2-492c-944e-f832bb9a1a2f" />
 
 ---
 
