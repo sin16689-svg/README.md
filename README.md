@@ -177,6 +177,9 @@ jobs -l          # PID 포함 상세 조회
 fg %1            # 1번 작업을 포그라운드로 가져오기
 bg %1            # 1번 작업을 백그라운드로 계속 실행
 ```
+---
+
+<img width="614" height="58" alt="image" src="https://github.com/user-attachments/assets/18392fd2-b998-463c-aa4f-97e6407661ee" />
 
 ---
 
@@ -228,6 +231,10 @@ kill -s SIGSTOP 1234 # PID 1234 일시정지
 kill -s SIGCONT 1234 # PID 1234 재개
 kill -l            # 시그널 목록 확인
 ```
+
+---
+
+<img width="1328" height="58" alt="image" src="https://github.com/user-attachments/assets/831e38d3-ce47-4526-9709-508b3a603bec" />
 
 ---
 
