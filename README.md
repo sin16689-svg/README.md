@@ -63,8 +63,9 @@ top -p 1234       # 특정 PID 모니터링
 ```
 ---
 
-![top 예시](https://github.com/sin16689-svg/README.md/issues/1#issue-3677492483.png)
+<img width="1169" height="403" alt="image" src="https://github.com/user-attachments/assets/5b23861f-5bc0-47d6-adae-b4dc81e0ea19" />
 
+---
 
 ### 활용 상황
 
