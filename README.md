@@ -63,6 +63,9 @@ top -p 1234       # 특정 PID 모니터링
 ```
 ---
 
+![top 예시](https://github.com/sin16689-svg/README.md/issues/1#issue-3677492483.png)
+
+
 ### 활용 상황
 
 - 서버 CPU 사용률이 갑자기 증가했을 때 원인 프로세스 확인
